@@ -1,1 +1,3 @@
-crear clase java.
+crear clase abstracta.
+
+modificar la clase java
